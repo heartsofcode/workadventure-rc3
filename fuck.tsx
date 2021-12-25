@@ -10,5 +10,35 @@
  </tile>
  <tile id="1">
   <image width="900" height="600" source="../logo-fuck-final.png"/>
+  <animation>
+   <frame tileid="0" duration="2000"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="600"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="600"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="600"/>
+   <frame tileid="0" duration="600"/>
+   <frame tileid="1" duration="600"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="600"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="600"/>
+   <frame tileid="1" duration="600"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="200"/>
+   <frame tileid="0" duration="200"/>
+   <frame tileid="1" duration="600"/>
+  </animation>
  </tile>
 </tileset>
