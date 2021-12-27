@@ -11,4 +11,14 @@
    <property name="silent" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="6">
+  <properties>
+   <property name="jitsiRoom" value="fuck_dome"/>
+  </properties>
+ </tile>
+ <tile id="7">
+  <properties>
+   <property name="jitsiRoom" value="fuck_auditorium"/>
+  </properties>
+ </tile>
 </tileset>
