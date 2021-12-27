@@ -1,0 +1,14 @@
+{ "columns":75,
+ "image":"heartship.png",
+ "imageheight":1976,
+ "imagewidth":2415,
+ "margin":0,
+ "name":"heart",
+ "spacing":0,
+ "tilecount":4575,
+ "tiledversion":"1.7.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.6"
+}
