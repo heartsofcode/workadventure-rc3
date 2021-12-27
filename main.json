@@ -226,63 +226,78 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"heartship.tsx"
+         "source":"heartship.tsx",
+         "name": "heartship"
         }, 
         {
          "firstgid":4576,
-         "source":"circuit_rooms.tsx"
+         "source":"circuit_rooms.tsx",
+         "name": "circuit"
         }, 
         {
          "firstgid":9151,
-         "source":"antrieb.tsx"
+         "source":"antrieb.tsx",
+         "name": "antrieb"
         }, 
         {
          "firstgid":41443,
-         "source":"herzerl.tsx"
+         "source":"herzerl.tsx",
+         "name": "herzerl"
         }, 
         {
          "firstgid":73735,
-         "source":"Lovepik_com-401740957-starry-sky-background.tsx"
+         "source":"Lovepik_com-401740957-starry-sky-background.tsx",
+         "name": "background"
         }, 
         {
          "firstgid":92263,
-         "source":"rooms-tiles.tsx"
+         "source":"rooms-tiles.tsx",
+         "name": "rooms"
         }, 
         {
          "firstgid":92344,
-         "source":"einhoerner.tsx"
-        }, 
+         "source":"einhoerner.tsx",
+         "name": "einhoerner"
+        },
         {
          "firstgid":92440,
-         "source":"logo-fuck-final.tsx"
+         "source":"logo-fuck-final.tsx",
+         "name": "fuck"
         }, 
         {
          "firstgid":92944,
-         "source":"dome.tsx"
+         "source":"dome.tsx",
+         "name": "dome"
         }, 
         {
          "firstgid":93024,
-         "source":"fuck.tsx"
+         "source":"fuck.tsx",
+         "name": "fuck"
         }, 
         {
          "firstgid":93026,
-         "source":"antrieb_abc.tsx"
-        }, 
+         "source":"antrieb_abc.tsx",
+         "name": "antrieb_abc"
+        },
         {
          "firstgid":93029,
-         "source":"functions.tsx"
+         "source":"functions.tsx",
+         "name": "functions"
         }, 
         {
          "firstgid":93038,
-         "source":"worldExit.tsx"
+         "source":"worldExit.tsx",
+         "name": "exits"
         }, 
         {
          "firstgid":93042,
-         "source":"schilder-sofa-dome.tsx"
+         "source":"schilder-sofa-dome.tsx",
+         "name": "schilder-sofa-dome"
         }, 
         {
          "firstgid":93442,
-         "source":"einhoerner-fuer-animation.tsx"
+         "source":"einhoerner-fuer-animation.tsx",
+         "name": "animierte-einhoerner"
         }],
  "tilewidth":32,
  "type":"map",
