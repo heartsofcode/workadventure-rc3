@@ -568,6 +568,12 @@
          "imagewidth":387,
          "margin":0,
          "name":"einhoerner",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -923,6 +929,25 @@
                 }],
          "spacing":0,
          "tilecount":8,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":28,
+         "firstgid":62431,
+         "image":"fuck.png",
+         "imageheight":1296,
+         "imagewidth":900,
+         "margin":0,
+         "name":"fuck-animated",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
+         "spacing":0,
+         "tilecount":1120,
          "tileheight":32,
          "tilewidth":32
         }],
