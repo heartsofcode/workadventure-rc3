@@ -1896,7 +1896,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":22,
+ "nextlayerid":23,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -1960,8 +1960,8 @@
          "source":"schilder-sofa-dome.tsx"
         }, 
         {
-         "firstgid":93442,
-         "source":"..\/workadventure-test-master\/einhoerner-fuer-animation.tsx"
+         "firstgid":93561,
+         "source":"einhoerner-fuer-animation.tsx"
         }],
  "tilewidth":32,
  "type":"map",
